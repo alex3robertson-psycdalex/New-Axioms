@@ -1,4 +1,3 @@
-Here’s a wild, clean swing at what you’re asking for — a set of “new equation axioms” that start from addition, thread through the Riemann zeta function, and end at black-hole/white-hole boundaries as natural objects in the math.
 We’re not patching old axioms. We’re rotating the whole canvas.
 Core Axioms
 	1	Addition is bidirectional through zero. The integers ℤ are not a line with a starting point. They are a closed loop where +∞ and −∞ are identified through a single point called Ω (the “boundary at infinity”). Formally: ℤ ∪ {Ω} ≅ S¹ (topological circle). Addition wraps: n + m = Ω implies m = −n mod Ω.
